@@ -3,7 +3,6 @@ for(let hobby of Hobbies){
     console.log(hobby);
 }
 
-
 const table =()=>{
     let table = '';
     for(let i=1; i<=10; i++){
