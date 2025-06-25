@@ -35,7 +35,8 @@ console.log(dulha + " and " + dulhan + " are getting married today!");
     <>
 
         <h1>React Practice</h1>
-        
+        <h2>{dulha} and {dulhan} are getting married today!</h2>
+        <h3>Value of a is {a} and b is {b}</h3>
 
     </>
   )
